@@ -24,6 +24,3 @@ python cupps.py -s png
 ```
 
 This will create the payload with png signature
-
-
-Work In Progress
